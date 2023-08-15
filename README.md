@@ -1,4 +1,4 @@
-# radical idea
+# rad
 
 A new Flutter project.
 
